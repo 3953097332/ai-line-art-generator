@@ -69,7 +69,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 4.  **生成并下载**: 点击“生成卡通人物线稿”，满意后免费下载高清原图
 
 ### ⚙️ 专业的 AI 绘制引擎
-*   **Nano Banana Pro**: 业内最火模型，针对动漫和萌系风格深度优化。
+*   **Nano Banana Pro**: 业内最火模型，针对动漫和萌系风格深度优化
 *   **Seedream 5**: 擅长处理复杂的细节与精细线稿。
 *   **Flux-Kontext**: 提供极具手绘质感的线条表现。
 
