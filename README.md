@@ -77,7 +77,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 
 <details>
 <summary><strong>生成的线稿可以进行二次修改和上色吗？</strong></summary>
-<p>当然可以！我们生成的线稿线条清晰、对比度高，非常适合导入 Photoshop、SAI 或 Clip Studio Paint 进行后期上色或细节微调。</p>
+<p>当然可以！我们生成的线稿线条清晰、对比度高，非常适合导入 Photoshop、SAI 或 Clip Studio Paint 进行后期上色或细节微调</p>
 </details>
 
 <details>
