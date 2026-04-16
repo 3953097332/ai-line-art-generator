@@ -63,7 +63,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 
 ### 🛠️ 四步创建您的线稿作品 (Simple 4-Step Process)
 
-1.  **上传参考图 (可选)**: 导入图片帮助 AI 更好地理解您的构思（支持 JPG/PNG/WebP）。
+1.  **上传参考图 (可选)**: 导入图片帮助 AI 更好地理解您的构思（支持 JPG/PNG/WebP）
 2.  **撰写线稿描述**: 使用详细的描述词。*例如：“一个可爱的 Q 版女孩，穿着连衣裙，双马尾，线条简洁流畅。”*
 3.  **选择 AI 模型**: 根据需求选择 `Nano` (动漫)、`Flux` (写实) 或 `Qwen` (萌系)。
 4.  **生成并下载**: 点击“生成卡通人物线稿”，满意后免费下载高清原图
