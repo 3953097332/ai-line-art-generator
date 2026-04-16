@@ -56,7 +56,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 | ![日漫美少年](https://img.sipingseo.com/file/cartoon-character-lineart-generator/aAgeJeok.webp) | ![日漫水手服少女](https://img.sipingseo.com/file/cartoon-character-lineart-generator/OtvCsyxP.webp) |
 
 #### 3. 欧美/写实风格 (Western & Realistic)
-从力量感十足的超级英雄到精准的肖像素描，满足专业绘画练习需求
+从力量感十足的超级英雄到精准的肖像素描满足专业绘画练习需求
 | 欧美卡通 | 写实肖像 |
 | :---: | :---: |
 | ![超级英雄](https://img.sipingseo.com/file/cartoon-character-lineart-generator/qCnb26Rm.webp) | ![写实女性线稿](https://img.sipingseo.com/file/cartoon-character-lineart-generator/564OWqVu.webp) |
