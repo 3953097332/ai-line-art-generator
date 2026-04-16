@@ -82,7 +82,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 
 <details>
 <summary><strong>为什么 AI 生成比手绘快这么多？</strong></summary>
-<p>AI 能够瞬间完成从“结构理解”到“线条渲染”的过程，将原本需要数小时的描线工作缩短至 20 秒，极大地释放了创作者的生产力。</p>
+<p>AI 能够瞬间完成从“结构理解”到“线条渲染”的过程，将原本需要数小时的描线工作缩短至 20 秒，极大地释放了创作者的生产力</p>
 </details>
 
 <details>
