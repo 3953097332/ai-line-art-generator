@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platform that transforms your creative ideas or reference photos into clean, professional-grade line art. Perfect for illustrators, hobbyists, and character designers who want to speed up their workflow.
+The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platform that transforms your creative ideas or reference photos into clean, professional-grade line art. Perfect for illustrators, hobbyists, and character designers who want to speed up their workflow
 
 ### Key Features
 *   **✨ Text-to-Sketch:** Generate intricate character line art from simple text descriptions.
