@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/cartoon-character-lineart-generator)
 [![Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/cartoon-character-lineart-generator)
 
-**SPAI 卡通人物线稿助理是一款基于尖端 AI 技术的在线创作工具。无论您需要 Q 版萌系、经典日漫还是欧美卡通风格，只需输入简单的文字描述或上传参考图，AI 即可在 20 秒内为您生成高清、专业的线稿底稿。它是插画创作、涂色练习和角色设计的理想伙伴。**
+**SPAI 卡通人物线稿助理是一款基于尖端 AI 技术的在线创作工具。无论您需要 Q 版萌系、经典日漫还是欧美卡通风格，只需输入简单的文字描述或上传参考图，AI 即可在 20 秒内为您生成高清、专业的线稿底稿。它是插画创作、涂色练习和角色设计的理想伙伴。** 
 
 ## ➡️ **[立即开启卡通线稿创作 | Start Generating Cartoon Line Art](https://www.sipingseo.com/zh/line-art-generator/cartoon-character-lineart-generator)** 
 
