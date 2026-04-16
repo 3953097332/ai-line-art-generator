@@ -22,7 +22,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 *   **🎭 Diverse Styles:** Supports **Chibi (Cute)**, **Japanese Anime**, **Western Cartoon**, and **Realistic** styles
 *   **⚡ Rapid Production:** Get high-resolution sketches in 20-30 seconds, much faster than manual drawing
 *   **📦 Commercial Use:** All generated line art comes with full commercial usage rights—no copyright worries  
-*   **💰 100% Free:** No subscription or registration required. Access professional AI drawing power online
+*   **💰 100% Free:** No subscription or registration required、Access professional AI drawing power online
 
 **[➡️ Create Your Custom Cartoon Character Sketch for Free](https://www.sipingseo.com/zh/line-art-generator/cartoon-character-lineart-generator)**
 
