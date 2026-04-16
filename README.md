@@ -41,7 +41,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 
 ### 🎨 风格效果展示 (Style Showcase)
 
-我们的 AI 模型经过海量数据训练，能够驾驭多种复杂的卡通流派：
+我们的 AI 模型经过海量数据训练、能够驾驭多种复杂的卡通流派：
 
 #### 1. Q 版萌系风格 (Chibi / Cute Style)
 大头小身、圆润线条，最适合制作表情包、贴纸或萌系周边
