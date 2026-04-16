@@ -87,7 +87,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 
 <details>
 <summary><strong>我上传的参考图安全吗？</strong></summary>
-<p>我们采用严格的隐私保护措施，上传的素材仅用于即时 AI 分析，处理完成后会自动从服务器清除，不会泄露给任何第三方。</p>
+<p>我们采用严格的隐私保护措施，上传的素材仅用于即时 AI 分析，处理完成后会自动从服务器清除，不会泄露给任何第三方</p>
 </details>
 
 ---
