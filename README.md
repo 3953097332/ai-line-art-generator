@@ -50,7 +50,7 @@ The **SPAI Cartoon Character Line Art Generator** is a powerful AI-driven platfo
 | ![Q版萌系女孩](https://img.sipingseo.com/file/cartoon-character-lineart-generator/iB6VGDRu.webp) | ![Q版可爱猫咪](https://img.sipingseo.com/file/cartoon-character-lineart-generator/Ef0l6tuj.webp) |
 
 #### 2. 日系动漫风格 (Anime Style)
-线条细腻优美，精准还原二次元角色的神韵，是漫画底稿的首选。
+线条细腻优美，精准还原二次元角色的神韵，是漫画底稿的首选
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![日漫美少年](https://img.sipingseo.com/file/cartoon-character-lineart-generator/aAgeJeok.webp) | ![日漫水手服少女](https://img.sipingseo.com/file/cartoon-character-lineart-generator/OtvCsyxP.webp) |
